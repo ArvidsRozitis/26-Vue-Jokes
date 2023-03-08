@@ -1,6 +1,6 @@
 # 26-Jokes App VUE
 
-Memory Game in javascript and typescript.
+Jokes app in VUE.js.
 
 If you're interested, you can download the repository and open it in your code editor.
 
