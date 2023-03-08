@@ -15,7 +15,6 @@ import HelloWorld from './components/HelloWorld.vue'
       </nav>
     </div>
   </header>
-
   <RouterView />
 </template>
 
@@ -45,9 +44,7 @@ nav a {
 }
 nav a.router-link-exact-active {
   background-color: transparent;
-  color: hsla(160, 100%, 37%, 1);
-  
- 
+  color: hsla(160, 100%, 37%, 1); 
 }
 
 nav a.router-link-exact-active:hover {
@@ -72,6 +69,7 @@ nav a:first-of-type {
 
   header .wrapper {
     display: flex;
+    width: 100%;
     place-items: flex-start;
     flex-wrap: wrap;
   }

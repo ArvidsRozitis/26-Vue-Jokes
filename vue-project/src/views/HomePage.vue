@@ -130,8 +130,10 @@ export default {
 </template>
 
 <style>
+
 .home {
   display: flex;
+  width: 100%;
   flex-direction: column;
   padding: 10vh 0;
   gap: 10px;
